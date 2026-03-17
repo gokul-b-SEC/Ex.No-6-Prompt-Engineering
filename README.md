@@ -14,3 +14,5 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+
+The Python program successfully demonstrated the integration of multiple AI tools. The system generated a product review using an AI model and then analyzed the sentiment of the generated text using the NLTK Sentiment Analyzer. The program evaluated the response and produced actionable insights based on the sentiment score. This experiment shows how Python can interact with AI tools and APIs to automate content generation, analyze outputs, and support decision-making
