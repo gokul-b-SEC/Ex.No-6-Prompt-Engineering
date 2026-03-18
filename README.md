@@ -15,4 +15,28 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 Result: 
 
+## Sample Output
+
+### Generated Review
+This smartphone delivers excellent performance with its powerful battery and AI-powered camera.  
+It captures clear photos even in low light and offers long-lasting battery life for everyday use.
+
+### Sentiment Analysis
+```json
+{
+  "neg": 0.0,
+  "neu": 0.35,
+  "pos": 0.65,
+  "compound": 0.88
+}
+
+
+### ✔️ Notes:
+- Fixed minor text issues (like "baƩery" → "battery")
+- Added proper Markdown headings and JSON formatting
+- Looks clean in GitHub README
+
+If you want, I can also make this into a **styled report, UI card, or dashboard layout** 👍
+
+
 The Python program successfully demonstrated the integration of multiple AI tools. The system generated a product review using an AI model and then analyzed the sentiment of the generated text using the NLTK Sentiment Analyzer. The program evaluated the response and produced actionable insights based on the sentiment score. This experiment shows how Python can interact with AI tools and APIs to automate content generation, analyze outputs, and support decision-making
