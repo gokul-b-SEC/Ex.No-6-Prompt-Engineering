@@ -29,14 +29,6 @@ It captures clear photos even in low light and offers long-lasting battery life 
   "pos": 0.65,
   "compound": 0.88
 }
-
-
-### ✔️ Notes:
-- Fixed minor text issues (like "baƩery" → "battery")
-- Added proper Markdown headings and JSON formatting
-- Looks clean in GitHub README
-
-If you want, I can also make this into a **styled report, UI card, or dashboard layout** 👍
-
+```
 
 The Python program successfully demonstrated the integration of multiple AI tools. The system generated a product review using an AI model and then analyzed the sentiment of the generated text using the NLTK Sentiment Analyzer. The program evaluated the response and produced actionable insights based on the sentiment score. This experiment shows how Python can interact with AI tools and APIs to automate content generation, analyze outputs, and support decision-making
